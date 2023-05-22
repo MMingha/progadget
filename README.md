@@ -1,2 +1,0 @@
-# progadget
-GitHub Pages
